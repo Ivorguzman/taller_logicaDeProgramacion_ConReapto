@@ -7,7 +7,7 @@ Este repositorio contiene el informe completo sobre la realización del taller d
 - **Introducción:** Breve descripción del taller y su importancia.
 - **Algoritmos:** Explicación detallada de todos los algoritmos implementados en el taller, incluyendo ejemplos y pseudocódigo.
 - **Diagramas de Flujo:** Visualización de los diagramas creados con RAPTOR para cada algoritmo.
-- ** Practicas y Ejercicios Propuestos:** Resolución de las practicas y  los ejercicios propuestos en cada capítulo del libro.
+- **Practicas y Ejercicios Propuestos:** Resolución de las practicas y  los ejercicios propuestos en cada capítulo del libro.
 - **Instrucciones de Uso:** Cómo ejecutar los algoritmos y visualizar los diagramas.
 
 ## Requisitos
